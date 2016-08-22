@@ -1,0 +1,9 @@
+name: Colin's Blog
+url: http://example.org
+description: Look at the pretty colors
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
