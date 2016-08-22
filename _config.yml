@@ -1,6 +1,6 @@
 name: Colin's Blog
-baseurl: "/mysite"
-url: cnarans.github.io
+baseurl: /mysite
+url: http://cnarans.github.io
 description: Look at the pretty colors
 
 permalink: /:year/:month/:day/:title/
