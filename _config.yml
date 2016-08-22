@@ -1,9 +1,9 @@
 name: Colin's Blog
-baseurl: ""
+baseurl: "/mysite"
 url: cnarans.github.io
 description: Look at the pretty colors
 
-permalink: mysite/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 10
 
 gems: [jekyll-paginate]
