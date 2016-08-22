@@ -1,8 +1,8 @@
 name: Colin's Blog
-url: cnarans.github.io/mysite
+url: "cnarans.github.io/mysite"
 description: Look at the pretty colors
 
-permalink: /:title
+permalink: "/:title"
 paginate: 10
 
 gems: [jekyll-paginate]
