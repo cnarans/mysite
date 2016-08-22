@@ -1,8 +1,8 @@
 name: Colin's Blog
-url: http://example.org
+url: cnarans.github.io
 description: Look at the pretty colors
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title
 paginate: 10
 
 gems: [jekyll-paginate]
