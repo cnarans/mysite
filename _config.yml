@@ -1,4 +1,5 @@
 name: Colin's Blog
+baseurl: ""
 url: cnarans.github.io
 description: Look at the pretty colors
 
